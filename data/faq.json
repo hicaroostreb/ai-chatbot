@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "faq_001",
+    "categoria": "Básico do Consórcio",
+    "pergunta_principal": "O que é Consórcio?",
+    "perguntas_relacionadas": [
+      "Quais os cuidados que se deve ter ao participar de um consórcio?",
+      "Quais são as vantagens do Sistema de Consórcio?"
+    ],
+    "resposta": "Consórcio é a reunião de um grupo de pessoas com o objetivo único de auto-financiamento para compra de um bem, através de contribuições mensais (em%).",
+    "palavras_chave": [
+      "Consórcio",
+      "auto-financiamento",
+      "grupo"
+    ],
+    "embedding_input": "passage: O que é Consórcio? Consórcio é a reunião de um grupo de pessoas com o objetivo único de auto-financiamento para compra de um bem, através de contribuições mensais (em%)."
+  },
+  {
+    "id": "faq_002",
+    "categoria": "Básico do Consórcio",
+    "pergunta_principal": "Quais os cuidados que se deve ter ao participar de um consórcio?",
+    "perguntas_relacionadas": [
+      "O que é Taxa de Adesão?",
+      "O que acontece se a administradora de consórcio não formar o grupo?"
+    ],
+    "resposta": "O consorciado deverá consultar através do Bacen, se a administradora está autorizada a formar grupos de consórcios, se existem reclamações da administradora junto ao órgão de defesa do consumidor.",
+    "palavras_chave": [
+      "Consórcio",
+      "Bacen",
+      "administradora",
+      "reclamações"
+    ],
+    "embedding_input": "passage: Quais os cuidados que se deve ter ao participar de um consórcio? O consorciado deverá consultar através do Bacen, se a administradora está autorizada a formar grupos de consórcios, se existem reclamações da administradora junto ao órgão de defesa do consumidor."
+  },
+  {
+    "id": "faq_003",
+    "categoria": "Básico do Consórcio",
+    "pergunta_principal": "Quais são as vantagens do Sistema de Consórcio?",
+    "perguntas_relacionadas": [
+      "O que é Consórcio?",
+      "Quais os cuidados que se deve ter ao participar de um consórcio?"
+    ],
+    "resposta": "Sistema de compra planejada que, desde sua criação, tem se mostrado vantajoso financeiramente, em relação aos financiamentos. O sistema de consórcio tem total ausência de juros. O consorciado paga o valor do bem, a taxa de administração e o fundo de reserva + correções. O consorciado pode programar a retirada do seu bem através de lance, inclusive se utilizando do FGTS, when in imóveis. O consorciado poderá transferir a sua cota para outra pessoa, bastando para isso obter a autorização da administradora.",
+    "palavras_chave": [
+      "Consórcio",
+      "vantagens",
+      "sistema de compra",
+      "ausência de juros",
+      "FGTS"
+    ],
+    "embedding_input": "passage: Quais são as vantagens do Sistema de Consórcio? Sistema de compra planejada que, desde sua criação, tem se mostrado vantajoso financeiramente, em relação aos financiamentos. O sistema de consórcio tem total ausência de juros. O consorciado paga o valor do bem, a taxa de administração e o fundo de reserva + correções. O consorciado pode programar a retirada do seu bem através de lance, inclusive se utilizando do FGTS, when in imóveis. O consorciado poderá transferir a sua cota para outra pessoa, bastando para isso obter a autorização da administradora."
+  },
+  {
+    "id": "faq_004",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Quantas pessoas formam um grupo?",
+    "perguntas_relacionadas": [
+      "Qual o tempo de duração de um grupo?",
+      "Qual a função da administradora de consórcio e quanto ela ganha por isso?"
+    ],
+    "resposta": "O grupo de consórcio terá prazo previamente estabelecido e o número de participantes será proporcional a quantidade de bens a serem entregues mensalmente. Por exemplo, um grupo de 50 meses com 2 bens entregues mensalmente terá 100 participantes. Um grupo de 60 meses com 3 bens entregues mensalmente terá 180 participantes. O número de bens a serem entregues mensalmente, depende do saldo de caixa existente em cada grupo.",
+    "palavras_chave": [
+      "Consórcio",
+      "grupo",
+      "participantes",
+      "bens",
+      "prazo"
+    ],
+    "embedding_input": "passage: Quantas pessoas formam um grupo? O grupo de consórcio terá prazo previamente estabelecido e o número de participantes será proporcional a quantidade de bens a serem entregues mensalmente. Por exemplo, um grupo de 50 meses com 2 bens entregues mensalmente terá 100 participantes. Um grupo de 60 meses com 3 bens entregues mensalmente terá 180 participantes. O número de bens a serem entregues mensalmente, depende do saldo de caixa existente em cada grupo."
+  },
+  {
+    "id": "faq_005",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Qual o tempo de duração de um grupo?",
+    "perguntas_relacionadas": [
+      "Quantas pessoas formam um grupo?",
+      "Qual a função da administradora de consórcio e quanto ela ganha por isso?"
+    ],
+    "resposta": "Hoje as administradoras são liberadas para estipular o prazo de funcionamento dos grupos. Não existe prazo máximo ou mínimo para duração dos grupos, este prazo deverá constar na proposta de adesão e variam de 40 a 240 meses conforme o segmento de atuação. O prazo máximo de duração de um grupo deverá ser definido quando da abertura do grupo para venda e deve constar na proposta de adesão.",
+    "palavras_chave": [
+      "Consórcio",
+      "grupo",
+      "prazo",
+      "duração",
+      "administradora"
+    ],
+    "embedding_input": "passage: Qual o tempo de duração de um grupo? Hoje as administradoras são liberadas para estipular o prazo de funcionamento dos grupos. Não existe prazo máximo ou mínimo para duração dos grupos, este prazo deverá constar na proposta de adesão e variam de 40 a 240 meses conforme o segmento de atuação. O prazo máximo de duração de um grupo deverá ser definido quando da abertura do grupo para venda e deve constar na proposta de adesão."
+  },
+  {
+    "id": "faq_006",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Qual a função da administradora de consórcio e quanto ela ganha por isso?",
+    "perguntas_relacionadas": [
+      "O que acontece se a administradora de consórcio não formar o grupo?",
+      "O que é Taxa de Adesão?"
+    ],
+    "resposta": "A administradora de consórcio é a responsável pela formação do grupo e comercialização das cotas, segundo as normas definidas pelo Banco Central, prestando informações aos participantes, nas assembleias mensais. Encerramento dos grupos com prestação de contas. Emitir mensalmente a cobrança dos mensalistas. Retomada do bem, de consorciado contemplado e em atraso. A receita da administradora está limitada à taxa de administração, estipulada na proposta de adesão e as taxas descritas no artigo 20º letras C, K, L, M.",
+    "palavras_chave": [
+      "Consórcio",
+      "administradora",
+      "grupo",
+      "cotas",
+      "Banco Central",
+      "taxa de administração"
+    ],
+    "embedding_input": "passage: Qual a função da administradora de consórcio e quanto ela ganha por isso? A administradora de consórcio é a responsável pela formação do grupo e comercialização das cotas, segundo as normas definidas pelo Banco Central, prestando informações aos participantes, nas assembleias mensais. Encerramento dos grupos com prestação de contas. Emitir mensalmente a cobrança dos mensalistas. Retomada do bem, de consorciado contemplado e em atraso. A receita da administradora está limitada à taxa de administração, estipulada na proposta de adesão e as taxas descritas no artigo 20º letras C, K, L, M."
+  },
+  {
+    "id": "faq_007",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O que acontece se a administradora de consórcio não formar o grupo?",
+    "perguntas_relacionadas": [
+      "O que é Taxa de Adesão?",
+      "Qual a função da administradora de consórcio e quanto ela ganha por isso?"
+    ],
+    "resposta": "Se a administradora não formar o grupo no prazo de 90 dias, deverá devolver o valor da parcela ou taxa de adesão (quando praticada), com correção aos consorciados.",
+    "palavras_chave": [
+      "Consórcio",
+      "administradora",
+      "grupo",
+      "não formação",
+      "prazo",
+      "devolução"
+    ],
+    "embedding_input": "passage: O que acontece se a administradora de consórcio não formar o grupo? Se a administradora não formar o grupo no prazo de 90 dias, deverá devolver o valor da parcela ou taxa de adesão (quando praticada), com correção aos consorciados."
+  },
+  {
+    "id": "faq_008",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "O que é Taxa de Adesão?",
+    "perguntas_relacionadas": [
+      "O que é Fundo Comum?",
+      "O que é Fundo de Reserva no Consórcio?"
+    ],
+    "resposta": "É a antecipação da taxa de administração, utilizada para cobrir os custos com a venda da cota. Esta taxa poderá ser de até 4% (quatro por cento) do valor do bem, que o consorciado paga no ato de sua adesão ao grupo. Ela deve ser reduzida do total da taxa de administração, cobrada mensalmente.",
+    "palavras_chave": [
+      "Taxa de Adesão",
+      "Comissionamento",
+      "taxa de administração",
+      "cota"
+    ],
+    "embedding_input": "passage: O que é Taxa de Adesão? É a antecipação da taxa de administração, utilizada para cobrir os custos com a venda da cota. Esta taxa poderá ser de até 4% (quatro por cento) do valor do bem, que o consorciado paga no ato de sua adesão ao grupo. Ela deve ser reduzida do total da taxa de administração, cobrada mensalmente."
+  },
+  {
+    "id": "faq_009",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "O que é Fundo Comum?",
+    "perguntas_relacionadas": [
+      "O que é Taxa de Adesão?",
+      "O que é Fundo de Reserva no Consórcio?"
+    ],
+    "resposta": "É o fundo formado pelo valor das contribuições mensais, acrescido dos rendimentos líquidos da aplicação financeira. Este fundo é utilizado para a distribuição dos créditos de contemplação aos integrantes do grupo.",
+    "palavras_chave": [
+      "Fundo Comum",
+      "contribuições mensais",
+      "rendimentos",
+      "contemplação"
+    ],
+    "embedding_input": "passage: O que é Fundo Comum? É o fundo formado pelo valor das contribuições mensais, acrescido dos rendimentos líquidos da aplicação financeira. Este fundo é utilizado para a distribuição dos créditos de contemplação aos integrantes do grupo."
+  },
+  {
+    "id": "faq_010",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "O que é Fundo de Reserva no Consórcio?",
+    "perguntas_relacionadas": [
+      "O que é Taxa de Adesão?",
+      "O que é Fundo Comum?"
+    ],
+    "resposta": "É um percentual cobrado sobre o valor do bem, que é utilizado para a cobertura de eventual insuficiência de caixa e para diminuir os efeitos de inadimplência no grupo. Fazem parte também do Fundo de Reserva, os rendimentos das aplicações financeiras dos recursos do próprio fundo. Os valores do Fundo de Reserva não utilizados serão devolvidos aos consorciados, por ocasião do encerramento do grupo.",
+    "palavras_chave": [
+      "Fundo de Reserva",
+      "percentual",
+      "insuficiência de caixa",
+      "inadimplência",
+      "rendimentos",
+      "devolução"
+    ],
+    "embedding_input": "passage: O que é Fundo de Reserva no Consórcio? É um percentual cobrado sobre o valor do bem, que é utilizado para a cobertura de eventual insuficiência de caixa e para diminuir os efeitos de inadimplência no grupo. Fazem parte também do Fundo de Reserva, os rendimentos das aplicações financeiras dos recursos do próprio fundo. Os valores do Fundo de Reserva não utilizados serão devolvidos aos consorciados, por ocasião do encerramento do grupo."
+  },
+  {
+    "id": "faq_011",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O que é encerramento do grupo e quando ele ocorre?",
+    "perguntas_relacionadas": [
+      "Quantas pessoas formam um grupo?",
+      "Qual a função da administradora de consórcio e quanto ela ganha por isso?"
+    ],
+    "resposta": "Todo grupo de consórcio tem um prazo de duração (ex. 50, 60, 80, 100, 150 e 180 meses). Transcorrido este prazo, a administradora, no período de 60 dias após, deverá encerrar o grupo, devolvendo os saldos remanescentes (se houver) aos consorciados ativos.",
+    "palavras_chave": [
+      "Encerramento do grupo",
+      "prazo de duração",
+      "administradora",
+      "saldos remanescentes"
+    ],
+    "embedding_input": "passage: O que é encerramento do grupo e quando ele ocorre? Todo grupo de consórcio tem um prazo de duração (ex. 50, 60, 80, 100, 150 e 180 meses). Transcorrido este prazo, a administradora, no período de 60 dias após, deverá encerrar o grupo, devolvendo os saldos remanescentes (se houver) aos consorciados ativos."
+  },
+  {
+    "id": "faq_012",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "O que é Seguro de Vida Prestamista?",
+    "perguntas_relacionadas": [
+      "O beneficiário do seguro também é beneficiário da cota de consórcio?",
+      "Caso o titular da cota de consórcio venha a falecer e tenha optado pelo seguro de vida em grupo, quem será o beneficiário?"
+    ],
+    "resposta": "O seguro de vida em grupo é opcional ao consorciado apenas antes de contemplar, após contemplação vira obrigatório, e poderá ser incluso na sua parcela mensal. O seguro garante o pagamento das parcelas asseguradas pelo consorciado em casos de morte natural, acidental ou invalidez total ou parcial por acidente. Para grupos de bens móveis formados até 31/05/2014, o capital segurado corresponde ao valor do crédito acrescido da taxa de administração e do fundo de reserva. Para grupos de bens móveis formados a partir de 01/06/2014, a cobertura será a quitação do saldo devedor da referida cota. Para grupos de imóveis, a cobertura será a quitação do saldo devedor da referida cota. Todas as coberturas serão de direito do consorciado desde que ele esteja em dia com seus pagamentos na data do sinistro. Quando o consorciado for pessoa jurídica (optante pelo seguro), todos os sócios estarão cobertos, proporcionalmente a sua participação societária em sua empresa.",
+    "palavras_chave": [
+      "Seguro de Vida Prestamista",
+      "seguro de vida em grupo",
+      "contemplação",
+      "parcela mensal",
+      "morte",
+      "acidente",
+      "invalidez"
+    ],
+    "embedding_input": "passage: O que é Seguro de Vida Prestamista? O seguro de vida em grupo é opcional ao consorciado apenas antes de contemplar, após contemplação vira obrigatório, e poderá ser incluso na sua parcela mensal. O seguro garante o pagamento das parcelas asseguradas pelo consorciado em casos de morte natural, acidental ou invalidez total ou parcial por acidente. Para grupos de bens móveis formados até 31/05/2014, o capital segurado corresponde ao valor do crédito acrescido da taxa de administração e do fundo de reserva. Para grupos de bens móveis formados a partir de 01/06/2014, a cobertura será a quitação do saldo devedor da referida cota. Para grupos de imóveis, a cobertura será a quitação do saldo devedor da referida cota. Todas as coberturas serão de direito do consorciado desde que ele esteja em dia com seus pagamentos na data do sinistro. Quando o consorciado for pessoa jurídica (optante pelo seguro), todos os sócios estarão cobertos, proporcionalmente a sua participação societária em sua empresa."
+  },
+  {
+    "id": "faq_013",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "O beneficiário do seguro também é beneficiário da cota de consórcio?",
+    "perguntas_relacionadas": [
+      "O que é Seguro de Vida Prestamista?",
+      "Caso o titular da cota de consórcio venha a falecer e tenha optado pelo seguro de vida em grupo, quem será o beneficiário?"
+    ],
+    "resposta": "Não. Beneficiário do seguro receberá o saldo remanescente, se houver, no caso de bem móvel, para grupos formados até 31/05/2014, após a quitação das parcelas vincendas e despesas comprovadas, se houverem. O(s) benificiário(s) da cota de consórcio é(são) o(s) herdeiro(s) ou sucessor(es) do consorciado, que deverão apresentar o respectivo formal de partilha ou alvará judicial específico. No caso de pessoa jurídica (optante pelo seguro), todos os sócios estarão cobertos, proporcionalmente a sua participação na empresa consorciada. Desde que atendam as condições constantes no contrato da seguradora.",
+    "palavras_chave": [
+      "Beneficiário do seguro",
+      "beneficiário da cota",
+      "saldo remanescente",
+      "herdeiros",
+      "sucessores"
+    ],
+    "embedding_input": "passage: O beneficiário do seguro também é beneficiário da cota de consórcio? Não. Beneficiário do seguro receberá o saldo remanescente, se houver, no caso de bem móvel, para grupos formados até 31/05/2014, após a quitação das parcelas vincendas e despesas comprovadas, se houverem. O(s) benificiário(s) da cota de consórcio é(são) o(s) herdeiro(s) ou sucessor(es) do consorciado, que deverão apresentar o respectivo formal de partilha ou alvará judicial específico. No caso de pessoa jurídica (optante pelo seguro), todos os sócios estarão cobertos, proporcionalmente a sua participação na empresa consorciada. Desde que atendam as condições constantes no contrato da seguradora."
+  },
+  {
+    "id": "faq_014",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "Caso o titular da cota de consórcio venha a falecer e tenha optado pelo seguro de vida em grupo, quem será o beneficiário?",
+    "perguntas_relacionadas": [
+      "O que é Seguro de Vida Prestamista?",
+      "O beneficiário do seguro também é beneficiário da cota de consórcio?"
+    ],
+    "resposta": "Os Herdeiros legais.",
+    "palavras_chave": [
+      "Herdeiros legais",
+      "seguro de vida em grupo",
+      "falecimento"
+    ],
+    "embedding_input": "passage: Caso o titular da cota de consórcio venha a falecer e tenha optado pelo seguro de vida em grupo, quem será o beneficiário? Os Herdeiros legais."
+  },
+  {
+    "id": "faq_015",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "Como é calculado o Seguro Prestamista?",
+    "perguntas_relacionadas": [
+      "O que é Seguro de Vida Prestamista?",
+      "O beneficiário do seguro também é beneficiário da cota de consórcio?"
+    ],
+    "resposta": "O Seguro é calculado sobre o valor do bem, mais taxa de administração e fundo de reserva, quando bem móvel 0,0785%, para grupos formados até 31/05/2014, e para grupos formados a partir de 01/06/2014 o percentual a ser cobrado será de 0,0462% sobre o saldo devedor. Quando bem imóvel, o percentual de seguro será de 0,0392% sobre o valor do saldo devedor.",
+    "palavras_chave": [
+      "Seguro Prestamista",
+      "cálculo",
+      "valor do bem",
+      "taxa de administração",
+      "fundo de reserva",
+      "saldo devedor"
+    ],
+    "embedding_input": "passage: Como é calculado o Seguro Prestamista? O Seguro é calculado sobre o valor do bem, mais taxa de administração e fundo de reserva, quando bem móvel 0,0785%, para grupos formados até 31/05/2014, e para grupos formados a partir de 01/06/2014 o percentual a ser cobrado será de 0,0462% sobre o saldo devedor. Quando bem imóvel, o percentual de seguro será de 0,0392% sobre o valor do saldo devedor."
+  },
+  {
+    "id": "faq_016",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "No caso de sinistro do bem segurado e alienado ao consórcio, como proceder?",
+    "perguntas_relacionadas": [
+      "O que é Seguro de Vida Prestamista?",
+      "O beneficiário do seguro também é beneficiário da cota de consórcio?"
+    ],
+    "resposta": "O consorciado, enquanto providencia a substituição do bem segurado deve continuar pagando normalmente suas prestações mensais. Pode ainda a seguradora do bem sinistrado, quitar o saldo devedor com a administradora ou o consorciado providenciará a substituição desta garantia.",
+    "palavras_chave": [
+      "Sinistro",
+      "bem segurado",
+      "alienação",
+      "prestações mensais",
+      "seguradora",
+      "saldo devedor",
+      "garantia"
+    ],
+    "embedding_input": "passage: No caso de sinistro do bem segurado e alienado ao consórcio, como proceder? O consorciado, enquanto providencia a substituição do bem segurado deve continuar pagando normalmente suas prestações mensais. Pode ainda a seguradora do bem sinistrado, quitar o saldo devedor com a administradora ou o consorciado providenciará a substituição desta garantia."
+  },
+  {
+    "id": "faq_017",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "O valor das prestações pagas é aplicado no mercado financeiro?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Sim. Os valores das prestações recebidas pela administradora, são depositados em conta vinculada e aplicados no mercado financeiro até serem utilizados para a entrega do crédito aos integrantes do grupo.",
+    "palavras_chave": [
+      "Prestações",
+      "mercado financeiro",
+      "administradora",
+      "crédito"
+    ],
+    "embedding_input": "passage: O valor das prestações pagas é aplicado no mercado financeiro? Sim. Os valores das prestações recebidas pela administradora, são depositados em conta vinculada e aplicados no mercado financeiro até serem utilizados para a entrega do crédito aos integrantes do grupo."
+  },
+  {
+    "id": "faq_018",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Como são calculadas as prestações do consórcio?",
+    "perguntas_relacionadas": [
+      "O valor das prestações pagas é aplicado no mercado financeiro?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "No valor do crédito devemos acrescentar a taxa de administração e o fundo de reserva (se houver) e dividirmos pela quantidade de meses estipulada para o plano.",
+    "palavras_chave": [
+      "Prestações",
+      "taxa de administração",
+      "fundo de reserva",
+      "crédito",
+      "meses"
+    ],
+    "embedding_input": "passage: Como são calculadas as prestações do consórcio? No valor do crédito devemos acrescentar a taxa de administração e o fundo de reserva (se houver) e dividirmos pela quantidade de meses estipulada para o plano."
+  },
+  {
+    "id": "faq_019",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "E como fica a prestação mensal?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "O valor das prestações pagas é aplicado no mercado financeiro?"
+    ],
+    "resposta": "EXEMPLO: Crédito de R$ 50.000,00 Quantidade de meses: 80 Taxa Administração: 11% Fundo de Reserva: 1% Total de Taxas: 12% R$ 50.000,00 + 12% = R$ 56.000,00 / 80 meses = R$ 700,00*. R$ 700,00 será o valor da parcela em 80 meses.",
+    "palavras_chave": [
+      "Prestação mensal",
+      "crédito",
+      "taxa de administração",
+      "fundo de reserva",
+      "meses"
+    ],
+    "embedding_input": "passage: E como fica a prestação mensal? EXEMPLO: Crédito de R$ 50.000,00 Quantidade de meses: 80 Taxa Administração: 11% Fundo de Reserva: 1% Total de Taxas: 12% R$ 50.000,00 + 12% = R$ 56.000,00 / 80 meses = R$ 700,00*. R$ 700,00 será o valor da parcela em 80 meses."
+  },
+  {
+    "id": "faq_020",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Como e onde são feitos os pagamentos das prestações mensais?",
+    "perguntas_relacionadas": [
+      "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?",
+      "As prestações podem ser pagas antecipadamente?"
+    ],
+    "resposta": "Os pagamentos poderão ser efetuados através da ficha de compensação bancária em qualquer banco credenciado, será considerado em dia o pagamento feito até a data do vencimento dentro do horário bancário. O consorciado poderá optar pelo débito automático em conta corrente nos bancos credenciados.",
+    "palavras_chave": [
+      "Pagamentos",
+      "prestações mensais",
+      "ficha de compensação bancária",
+      "débito automático"
+    ],
+    "embedding_input": "passage: Como e onde são feitos os pagamentos das prestações mensais? Os pagamentos poderão ser efetuados através da ficha de compensação bancária em qualquer banco credenciado, será considerado em dia o pagamento feito até a data do vencimento dentro do horário bancário. O consorciado poderá optar pelo débito automático em conta corrente nos bancos credenciados."
+  },
+  {
+    "id": "faq_021",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "As prestações podem ser pagas antecipadamente?"
+    ],
+    "resposta": "Sim. Os valores a serem recolhidos deverão ser correspondentes ao valor do bem no dia da assembleia de contemplação.",
+    "palavras_chave": [
+      "Pagamentos",
+      "vencimento",
+      "assembleia",
+      "diferença de parcela",
+      "contemplação"
+    ],
+    "embedding_input": "passage: Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela? Sim. Os valores a serem recolhidos deverão ser correspondentes ao valor do bem no dia da assembleia de contemplação."
+  },
+  {
+    "id": "faq_022",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "Quais as penalidades para quem paga em atraso?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "As prestações podem ser pagas antecipadamente?"
+    ],
+    "resposta": "Para os consorciados não contemplados, não há a cobrança de multa e/ou juros, porém, fica impossibilitado de ser contemplado por sorteio ou lance. Os consorciados contemplados estão sujeitos à cobrança de juros de 1% ao mês e multa de 2%, calculados sobre o valor atualizado da parcela.",
+    "palavras_chave": [
+      "Penalidades",
+      "atraso",
+      "multa",
+      "juros",
+      "sorteio",
+      "lance",
+      "contemplação"
+    ],
+    "embedding_input": "passage: Quais as penalidades para quem paga em atraso? Para os consorciados não contemplados, não há a cobrança de multa e/ou juros, porém, fica impossibilitado de ser contemplado por sorteio ou lance. Os consorciados contemplados estão sujeitos à cobrança de juros de 1% ao mês e multa de 2%, calculados sobre o valor atualizado da parcela."
+  },
+  {
+    "id": "faq_023",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "As prestações podem ser pagas antecipadamente?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Quais as penalidades para quem paga em atraso?"
+    ],
+    "resposta": "Sim. O consorciado pode pagar mais de uma prestação na ordem inversa, da última para a primeira. Estes pagamentos estarão sujeitos a diferença de parcelas até a assembleia ordinária subsequente ao pagamento.",
+    "palavras_chave": [
+      "Prestações",
+      "pagamento antecipado",
+      "ordem inversa",
+      "assembleia",
+      "diferença de parcelas"
+    ],
+    "embedding_input": "passage: As prestações podem ser pagas antecipadamente? Sim. O consorciado pode pagar mais de uma prestação na ordem inversa, da última para a primeira. Estes pagamentos estarão sujeitos a diferença de parcelas até a assembleia ordinária subsequente ao pagamento."
+  },
+  {
+    "id": "faq_024",
+    "categoria": "Seguro e Responsabilidades",
+    "pergunta_principal": "O que acontece ao consorciado que deixar de pagar suas prestações?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Quais as penalidades para quem paga em atraso?"
+    ],
+    "resposta": "O consorciado não contemplado que deixar de pagar 4 prestações mensais será excluído do grupo. Se o consorciado já foi contemplado, será cobrado via Departamento Jurídico, em caso de atraso superior a 3 parcelas.",
+    "palavras_chave": [
+      "Inadimplência",
+      "prestações",
+      "exclusão",
+      "grupo",
+      "cobrança"
+    ],
+    "embedding_input": "passage: O que acontece ao consorciado que deixar de pagar suas prestações? O consorciado não contemplado que deixar de pagar 4 prestações mensais será excluído do grupo. Se o consorciado já foi contemplado, será cobrado via Departamento Jurídico, em caso de atraso superior a 3 parcelas."
+  },
+  {
+    "id": "faq_025",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O que é uma Assembleia?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Quem pode ser contemplado?"
+    ],
+    "resposta": "São reuniões, realizadas em dia, hora e local previamente designados pelas administradoras, abertas a todos os consorciados. As assembleias podem ser Ordinárias: são realizadas mensalmente e destinam-se à contemplação, atendimento e outras informações aos consorciados. Extraordinárias são convocadas pela administradora para deliberar sobre assuntos de interesse do grupo. Exemplo: a substituição do bem retirado de fabricação ou a extinção do índice indexador de preço, nestes casos tem direito a voto os consorciados não contemplados que estejam em dia com os seus pagamentos.",
+    "palavras_chave": [
+      "Assembleia",
+      "reuniões",
+      "administradora",
+      "consorciados",
+      "ordinárias",
+      "extraordinárias",
+      "contemplação"
+    ],
+    "embedding_input": "passage: O que é uma Assembleia? São reuniões, realizadas em dia, hora e local previamente designados pelas administradoras, abertas a todos os consorciados. As assembleias podem ser Ordinárias: são realizadas mensalmente e destinam-se à contemplação, atendimento e outras informações aos consorciados. Extraordinárias são convocadas pela administradora para deliberar sobre assuntos de interesse do grupo. Exemplo: a substituição do bem retirado de fabricação ou a extinção do índice indexador de preço, nestes casos tem direito a voto os consorciados não contemplados que estejam em dia com os seus pagamentos."
+  },
+  {
+    "id": "faq_026",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "E se o bem descrito no Grupo de Consórcio for retirado de fabricação ou o índice deixar de existir?",
+    "perguntas_relacionadas": [
+      "O que acontece se o bem do meu consórcio não for mais fabricado?",
+      "Se o índice do consórcio deixar de ser publicado, como fica o reajuste?"
+    ],
+    "resposta": "Quando o bem for retirado de fabricação ou o índice deixar de ser publicado, a administradora de consórcio deverá convocar uma assembleia geral extraordinária para, em conjunto com os consorciados não contemplados, decidirem pela escolha de outro bem similar ou outro índice indexador, para manter o referencial de preço.",
+    "palavras_chave": [
+      "bem retirado de fabricação",
+      "índice indexador",
+      "assembleia extraordinária"
+    ],
+    "embedding_input": "passage: E se o bem descrito no Grupo de Consórcio for retirado de fabricação ou o índice deixar de existir? Quando o bem for retirado de fabricação ou o índice deixar de ser publicado, a administradora de consórcio deverá convocar uma assembleia geral extraordinária para, em conjunto com os consorciados não contemplados, decidirem pela escolha de outro bem similar ou outro índice indexador, para manter o referencial de preço."
+  },
+  {
+    "id": "faq_027",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Quais as formas de contemplação?",
+    "perguntas_relacionadas": [
+      "Quem pode ser contemplado?",
+      "Qual data deve-se dar o Lance?"
+    ],
+    "resposta": "O consorciado em dia com seus pagamentos, concorre mensalmente à contemplação através de sorteio e/ou lance, se ofertá-lo.",
+    "palavras_chave": [
+      "Contemplação",
+      "sorteio",
+      "lance",
+      "pagamentos"
+    ],
+    "embedding_input": "passage: Quais as formas de contemplação? O consorciado em dia com seus pagamentos, concorre mensalmente à contemplação através de sorteio e/ou lance, se ofertá-lo."
+  },
+  {
+    "id": "faq_028",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Quem pode ser contemplado?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Qual data deve-se dar o Lance?"
+    ],
+    "resposta": "Somente os consorciados em dia com os pagamentos de suas prestações, ou seja, os consorciados que efetuaram o pagamento até a data do vencimento e os consorciados excluídos com o direito de crédito parcial, deduzidas as multas contratuais.",
+    "palavras_chave": [
+      "Contemplação",
+      "pagamentos",
+      "prestações",
+      "vencimento",
+      "excluídos",
+      "crédito parcial",
+      "multas contratuais"
+    ],
+    "embedding_input": "passage: Quem pode ser contemplado? Somente os consorciados em dia com os pagamentos de suas prestações, ou seja, os consorciados que efetuaram o pagamento até a data do vencimento e os consorciados excluídos com o direito de crédito parcial, deduzidas as multas contratuais."
+  },
+  {
+    "id": "faq_029",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Como é a contemplação por Sorteio?",
+    "perguntas_relacionadas": [
+      "Como funciona o sorteio de consórcio?",
+      "Quais são os tipos de sorteio em consórcio?"
+    ],
+    "resposta": "Existem grupos que utilizam a extração da loteria federal para realização do sorteio, conforme regulamento no contrato de adesão. Os demais grupos utilizam o sorteio através de bingo, onde são retiradas cinco bolinhas do globo e a 5ª bolinha retirada, ou seja, a última, será a cota contemplada por sorteio.",
+    "palavras_chave": [
+      "sorteio",
+      "Loteria Federal",
+      "bingo",
+      "consórcio"
+    ],
+    "embedding_input": "passage: Como é a contemplação por Sorteio? Existem grupos que utilizam a extração da loteria federal para realização do sorteio, conforme regulamento no contrato de adesão. Os demais grupos utilizam o sorteio através de bingo, onde são retiradas cinco bolinhas do globo e a 5ª bolinha retirada, ou seja, a última, será a cota contemplada por sorteio."
+  },
+  {
+    "id": "faq_030",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Qual data deve-se dar o Lance?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Os lances podem ser dados até 12 horas antes da assembleia.",
+    "palavras_chave": [
+      "Lance",
+      "assembleia",
+      "data"
+    ],
+    "embedding_input": "passage: Qual data deve-se dar o Lance? Os lances podem ser dados até 12 horas antes da assembleia."
+  },
+  {
+    "id": "faq_031",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Como é a contemplação por Lance?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Que tipos de lances existem nos grupos de consórcio?"
+    ],
+    "resposta": "O consorciado poderá ofertar seu lance através do teleatendimento ou via internet com 12 horas de antecedência da assembleia, representativo de, no mínimo 10% (dez por cento) do valor do bem mais taxa. Será vencedor o maior percentual dentre todas as ofertas e contemplará o ofertante, desde que seu valor em dinheiro, somado ao saldo existente no fundo comum do grupo, permita a atribuição do crédito. a) Em caso de empate no percentual de lances, a apuração do vencedor será através de cota mais próxima da cota sorteada seguindo um número acima outro abaixo até encontrar a cota mais próxima entre as cotas empatadas, (sistema de bingo). Nos grupos que utilizam a loteria federal, serão colocadas em um globo todas as cotas existentes no grupo, serão tiradas 5 bolinhas e a 5ª pedra retirada será considerada a pedra chave, se esta não tenha ofertado lance, busca-se um número acima outro abaixo até encontrar o ofertante de lance. b) O lance vencedor será considerado pagamento antecipado. Os lances perdedores serão desconsiderados, podendo o consorciado, na assembleia seguinte, oferta-lo novamente. c) Os lances deverão ser pagos em até 48 horas após a confirmação da contemplação.",
+    "palavras_chave": [
+      "Lance",
+      "teleatendimento",
+      "internet",
+      "assembleia",
+      "percentual",
+      "valor do bem",
+      "taxa",
+      "fundo comum",
+      "cota",
+      "sorteio",
+      "bingo",
+      "loteria federal",
+      "pagamento antecipado"
+    ],
+    "embedding_input": "passage: Como é a contemplação por Lance? O consorciado poderá ofertar seu lance através do teleatendimento ou via internet com 12 horas de antecedência da assembleia, representativo de, no mínimo 10% (dez por cento) do valor do bem mais taxa. Será vencedor o maior percentual dentre todas as ofertas e contemplará o ofertante, desde que seu valor em dinheiro, somado ao saldo existente no fundo comum do grupo, permita a atribuição do crédito. a) Em caso de empate no percentual de lances, a apuração do vencedor será através de cota mais próxima da cota sorteada seguindo um número acima outro abaixo até encontrar a cota mais próxima entre as cotas empatadas, (sistema de bingo). Nos grupos que utilizam a loteria federal, serão colocadas em um globo todas as cotas existentes no grupo, serão tiradas 5 bolinhas e a 5ª pedra retirada será considerada a pedra chave, se esta não tenha ofertado lance, busca-se um número acima outro abaixo até encontrar o ofertante de lance. b) O lance vencedor será considerado pagamento antecipado. Os lances perdedores serão desconsiderados, podendo o consorciado, na assembleia seguinte, oferta-lo novamente. c) Os lances deverão ser pagos em até 48 horas após a confirmação da contemplação."
+  },
+  {
+    "id": "faq_032",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Que tipos de lances existem nos grupos de consórcio?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Existem: Embutido: O consorciado poderá descontar da sua carta de crédito parte do lance ofertado. Fixo: Na formação do grupo é estipulado um percentual de lance fixo. Exemplo: 30% dentre os ofertantes um consorciado será contemplado desde que exista saldo suficiente no caixa do grupo. Livre: Qualquer percentual ofertado acima de 10% e máximo a quitação.",
+    "palavras_chave": [
+      "Lance",
+      "embutido",
+      "fixo",
+      "livre",
+      "carta de crédito",
+      "percentual",
+      "saldo"
+    ],
+    "embedding_input": "passage: Que tipos de lances existem nos grupos de consórcio? Existem: Embutido: O consorciado poderá descontar da sua carta de crédito parte do lance ofertado. Fixo: Na formação do grupo é estipulado um percentual de lance fixo. Exemplo: 30% dentre os ofertantes um consorciado será contemplado desde que exista saldo suficiente no caixa do grupo. Livre: Qualquer percentual ofertado acima de 10% e máximo a quitação."
+  },
+  {
+    "id": "faq_033",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Quais as vantagens de ser contemplado por lance?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "O consorciado poderá desfrutar do seu bem antecipadamente. O valor ofertado como lance quitará parte de seu saldo devedor e não sofrerá reajustes futuro. O consorciado terá seu prazo reduzido com a quitação das parcelas ofertadas como lance na ordem inversa.",
+    "palavras_chave": [
+      "Contemplação",
+      "lance",
+      "bem",
+      "saldo devedor",
+      "reajustes",
+      "prazo",
+      "parcelas"
+    ],
+    "embedding_input": "passage: Quais as vantagens de ser contemplado por lance? O consorciado poderá desfrutar do seu bem antecipadamente. O valor ofertado como lance quitará parte de seu saldo devedor e não sofrerá reajustes futuro. O consorciado terá seu prazo reduzido com a quitação das parcelas ofertadas como lance na ordem inversa."
+  },
+  {
+    "id": "faq_034",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Qual o valor, quando e como o consorciado recebe o crédito?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "A Administradora de Consórcios coloca à disposição do consorciado contemplado, o crédito a que tem direito, vigente na data da realização da assembleia de contemplação. O consorciado contemplado por sorteio ou lance terá a autorização de faturamento à disposição no 3º dia útil seguinte a data da assembleia. Recurso este que será aplicado financeiramente, em benefício do consorciado, até o dia anterior de seu efetivo uso. A liberação do crédito somente ocorrerá após a aprovação cadastral conforme clausula 31ª.",
+    "palavras_chave": [
+      "Crédito",
+      "Administradora de Consórcios",
+      "contemplação",
+      "assembleia",
+      "sorteio",
+      "lance",
+      "faturamento",
+      "aprovação cadastral"
+    ],
+    "embedding_input": "passage: Qual o valor, quando e como o consorciado recebe o crédito? A Administradora de Consórcios coloca à disposição do consorciado contemplado, o crédito a que tem direito, vigente na data da realização da assembleia de contemplação. O consorciado contemplado por sorteio ou lance terá a autorização de faturamento à disposição no 3º dia útil seguinte a data da assembleia. Recurso este que será aplicado financeiramente, em benefício do consorciado, até o dia anterior de seu efetivo uso. A liberação do crédito somente ocorrerá após a aprovação cadastral conforme clausula 31ª."
+  },
+  {
+    "id": "faq_035",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "E se o consorciado optar por um bem diferente do seu plano?",
+    "perguntas_relacionadas": [
+      "Quando o bem fica desalienado?",
+      "O bem em garantia pode ser substituído?"
+    ],
+    "resposta": "Se o consorciado escolher um bem de maior valor que o seu crédito, bastará pagar a diferença diretamente no fornecedor que lhe vendeu. Poderá ainda, adquirir um bem de menor valor, sujeito a alienação, e a diferença do crédito a que tem direito será utilizado para quitar parcelas na ordem inversa. O consorciado poderá optar por utilizar até 10% do valor do crédito para pagamento de seguro, licenciamento, despesas com cartório, mediante análise da administradora e documentos de comprovação.",
+    "palavras_chave": [
+      "Bem",
+      "crédito",
+      "valor",
+      "fornecedor",
+      "alienação",
+      "parcelas",
+      "seguro",
+      "licenciamento",
+      "despesas com cartório",
+      "administradora"
+    ],
+    "embedding_input": "passage: E se o consorciado optar por um bem diferente do seu plano? Se o consorciado escolher um bem de maior valor que o seu crédito, bastará pagar a diferença diretamente no fornecedor que lhe vendeu. Poderá ainda, adquirir um bem de menor valor, sujeito a alienação, e a diferença do crédito a que tem direito será utilizado para quitar parcelas na ordem inversa. O consorciado poderá optar por utilizar até 10% do valor do crédito para pagamento de seguro, licenciamento, despesas com cartório, mediante análise da administradora e documentos de comprovação."
+  },
+  {
+    "id": "faq_036",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Quando o bem fica desalienado?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "O bem em garantia pode ser substituído?"
+    ],
+    "resposta": "O bem ficará desalienado mediante a quitação do saldo devedor ou mediante a substituição por outro bem, com aprovação da administradora.",
+    "palavras_chave": [
+      "Bem",
+      "desalienação",
+      "quitação",
+      "saldo devedor",
+      "substituição",
+      "administradora"
+    ],
+    "embedding_input": "passage: Quando o bem fica desalienado? O bem ficará desalienado mediante a quitação do saldo devedor ou mediante a substituição por outro bem, com aprovação da administradora."
+  },
+  {
+    "id": "faq_037",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Como posso utilizar a carta de crédito de bem móvel?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Pode ser utilizada para compra de veículo zero km ou seminovo com até 10 (dez) anos de fabricação, motocicletas com até 3 (três) anos de fabricação, caminhões zero km ou seminovo com até 10 anos de fabricação, utilizar para quitação de financiamento de bem móvel que esteja em nome do consorciado. Obs: Leasing não é permitido quitar. Todas as cotas de móvel/auto podem ser utilizadas para embarcação, aceitando-se apenas 0km com registro na marina e toda a documentação pertinente. Dependendo do cadastro e valor de saldo devedor x garantia, pode ser solicitado garantia complementar.",
+    "palavras_chave": [
+      "Carta de crédito",
+      "bem móvel",
+      "veículo",
+      "motocicleta",
+      "caminhão",
+      "financiamento"
+    ],
+    "embedding_input": "passage: Como posso utilizar a carta de crédito de bem móvel? Pode ser utilizada para compra de veículo zero km ou seminovo com até 10 (dez) anos de fabricação, motocicletas com até 3 (três) anos de fabricação, caminhões zero km ou seminovo com até 10 anos de fabricação, utilizar para quitação de financiamento de bem móvel que esteja em nome do consorciado. Obs: Leasing não é permitido quitar. Todas as cotas de móvel/auto podem ser utilizadas para embarcação, aceitando-se apenas 0km com registro na marina e toda a documentação pertinente. Dependendo do cadastro e valor de saldo devedor x garantia, pode ser solicitado garantia complementar."
+  },
+  {
+    "id": "faq_038",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Quem pode gerar boleto unificado?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?"
+    ],
+    "resposta": "Somente quem tem o acesso usuário master ou o próprio cliente consegue pelo portal.",
+    "palavras_chave": [
+      "Boleto",
+      "unificado",
+      "usuário",
+      "cliente",
+      "portal"
+    ],
+    "embedding_input": "passage: Quem pode gerar boleto unificado? Somente quem tem o acesso usuário master ou o próprio cliente consegue pelo portal."
+  },
+  {
+    "id": "faq_039",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Os boletos são enviados automaticamente para o e-mail dos clientes?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?"
+    ],
+    "resposta": "Sim, são enviados no e-mail cadastrado na hora da venda, e a senha para abrir o arquivo são os 4 primeiros dígitos do CPF/CNPJ.",
+    "palavras_chave": [
+      "Boletos",
+      "e-mail",
+      "clientes",
+      "CPF",
+      "CNPJ"
+    ],
+    "embedding_input": "passage: Os boletos são enviados automaticamente para o e-mail dos clientes? Sim, são enviados no e-mail cadastrado na hora da venda, e a senha para abrir o arquivo são os 4 primeiros dígitos do CPF/CNPJ."
+  },
+  {
+    "id": "faq_040",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Tem como realizar o primeiro pagamento com Pix?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?"
+    ],
+    "resposta": "A primeira parcela não pode ser Pix, somente boleto ou cartão de crédito.",
+    "palavras_chave": [
+      "Pagamento",
+      "Pix",
+      "parcela",
+      "boleto",
+      "cartão de crédito"
+    ],
+    "embedding_input": "passage: Tem como realizar o primeiro pagamento com Pix? A primeira parcela não pode ser Pix, somente boleto ou cartão de crédito."
+  },
+  {
+    "id": "faq_041",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Na desistência da carta de crédito pagando meia parcela, como é calculada a multa?",
+    "perguntas_relacionadas": [
+      "O que é Taxa de Adesão?",
+      "O que é Fundo Comum?"
+    ],
+    "resposta": "Sobre o crédito integral contratado.",
+    "palavras_chave": [
+      "Desistência",
+      "carta de crédito",
+      "meia parcela",
+      "multa",
+      "crédito integral"
+    ],
+    "embedding_input": "passage: Na desistência da carta de crédito pagando meia parcela, como é calculada a multa? Sobre o crédito integral contratado."
+  },
+  {
+    "id": "faq_042",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "A primeira parcela é devolvida em caso de desistência?",
+    "perguntas_relacionadas": [
+      "O que é Taxa de Adesão?",
+      "O que é Fundo Comum?"
+    ],
+    "resposta": "Sim, porém se a desistência for formalizada antes da primeira assembleia. Se o cliente participar de uma assembleia não devolve mais.",
+    "palavras_chave": [
+      "Primeira parcela",
+      "devolução",
+      "desistência",
+      "assembleia"
+    ],
+    "embedding_input": "passage: A primeira parcela é devolvida em caso de desistência? Sim, porém se a desistência for formalizada antes da primeira assembleia. Se o cliente participar de uma assembleia não devolve mais."
+  },
+  {
+    "id": "faq_043",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "O cliente pode usar parte do saldo da carta para arcar com custos da documentação do imóvel?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Sim, com limite de 10% do valor do imóvel. Exemplo: O cliente foi contemplado em 300k e o imóvel está avaliado neste mesmo valor, porém ele pagou somente 270k na aquisição, ou seja, os outros 30k poderão ser utilizados para documentação.",
+    "palavras_chave": [
+      "Cliente",
+      "saldo",
+      "carta",
+      "custos",
+      "documentação",
+      "imóvel"
+    ],
+    "embedding_input": "passage: O cliente pode usar parte do saldo da carta para arcar com custos da documentação do imóvel? Sim, com limite de 10% do valor do imóvel. Exemplo: O cliente foi contemplado em 300k e o imóvel está avaliado neste mesmo valor, porém ele pagou somente 270k na aquisição, ou seja, os outros 30k poderão ser utilizados para documentação."
+  },
+  {
+    "id": "faq_044",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Se fizermos um projeto de compra de imóvel e as cartas forem contemplando ao longo dos meses, conseguimos ir pagando o vendedor ou tem que esperar contemplar tudo?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Compra tem que estar tudo contemplado.",
+    "palavras_chave": [
+      "Projeto",
+      "compra",
+      "imóvel",
+      "cartas",
+      "contemplação",
+      "vendedor"
+    ],
+    "embedding_input": "passage: Se fizermos um projeto de compra de imóvel e as cartas forem contemplando ao longo dos meses, conseguimos ir pagando o vendedor ou tem que esperar contemplar tudo? Compra tem que estar tudo contemplado."
+  },
+  {
+    "id": "faq_045",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Quais são os meses de aumento do INCC e IPCA nos grupos?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "É variável de acordo com a 1ª assembleia realizada no grupo.",
+    "palavras_chave": [
+      "Meses",
+      "aumento",
+      "INCC",
+      "IPCA",
+      "grupos",
+      "assembleia",
+      "reajuste"
+    ],
+    "embedding_input": "passage: Quais são os meses de aumento do INCC e IPCA nos grupos? É variável de acordo com a 1ª assembleia realizada no grupo."
+  },
+  {
+    "id": "faq_046",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Na meia parcela, se o cliente for contemplado e optar por deixar o dinheiro da carta investido, quando a Vexus receberá o restante da comissão?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Quando o cliente finalizar o consórcio e sacar o valor.",
+    "palavras_chave": [
+      "Meia parcela",
+      "cliente",
+      "contemplação",
+      "dinheiro",
+      "carta",
+      "Vexus",
+      "comissão"
+    ],
+    "embedding_input": "passage: Na meia parcela, se o cliente for contemplado e optar por deixar o dinheiro da carta investido, quando a Vexus receberá o restante da comissão? Quando o cliente finalizar o consórcio e sacar o valor."
+  },
+  {
+    "id": "faq_047",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Existe a correção do comissionamento em relação a correção do crédito?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Não, a Vexus recebe pelo que vendeu. Só haverá mudança em casos em que o cliente muda de categoria pra mais ou pra menos durante o comissionamento. Se mudar depois que já recebeu tudo, não recebe a mais ou a menos.",
+    "palavras_chave": [
+      "Correção",
+      "comissionamento",
+      "crédito",
+      "Vexus",
+      "categoria"
+    ],
+    "embedding_input": "passage: Existe a correção do comissionamento em relação a correção do crédito? Não, a Vexus recebe pelo que vendeu. Só haverá mudança em casos em que o cliente muda de categoria pra mais ou pra menos durante o comissionamento. Se mudar depois que já recebeu tudo, não recebe a mais ou a menos."
+  },
+  {
+    "id": "faq_048",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "O incentivo, por exemplo da faixa verde, será pago no 5º mês após a venda ou junto com a 5ª parcela da comissão?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Na quinta parcela paga pelo cliente, por exemplo: se o cliente comprar o consórcio dia 05/01/2025, iremos receber em junho.",
+    "palavras_chave": [
+      "Incentivo",
+      "faixa verde",
+      "mês",
+      "venda",
+      "parcela",
+      "comissão"
+    ],
+    "embedding_input": "passage: O incentivo, por exemplo da faixa verde, será pago no 5º mês após a venda ou junto com a 5ª parcela da comissão? Na quinta parcela paga pelo cliente, por exemplo: se o cliente comprar o consórcio dia 05/01/2025, iremos receber em junho."
+  },
+  {
+    "id": "faq_049",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Como funcionam as liberações dos créditos para construção?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Na construção libera por etapas, fundação (20%), estrutura (30%), acabamento (40%) e averbação (10%). O que estiver construído até o momento do faturamento da carta, o consorciado consegue sacar, mas não libera 100% até a averbação.",
+    "palavras_chave": [
+      "Liberações",
+      "créditos",
+      "construção",
+      "etapas",
+      "fundaçã o",
+      "estrutura",
+      "acabamento",
+      "averbação"
+    ],
+    "embedding_input": "passage: Como funcionam as liberações dos créditos para construção? Na construção libera por etapas, fundação (20%), estrutura (30%), acabamento (40%) e averbação (10%). O que estiver construído até o momento do faturamento da carta, o consorciado consegue sacar, mas não libera 100% até a averbação."
+  },
+  {
+    "id": "faq_050",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Posso fazer um consórcio só para reforma?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Sim, porém só poderão ser utilizados no máximo 30% do valor do imóvel para reforma.",
+    "palavras_chave": [
+      "Consórcio",
+      "reforma",
+      "valor",
+      "imóvel"
+    ],
+    "embedding_input": "passage: Posso fazer um consórcio só para reforma? Sim, porém só poderão ser utilizados no máximo 30% do valor do imóvel para reforma."
+  },
+  {
+    "id": "faq_051",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Para reforma utiliza-se os mesmos percentuais de liberação da construção (20, 30, 40 e 10%)",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Não necessariamente, por exemplo: Se o imóvel registrado vale 1 milhão, o crédito de até 300 mil é liberado 100%.",
+    "palavras_chave": [
+      "Reforma",
+      "percentuais",
+      "liberação",
+      "construção",
+      "imóvel",
+      "crédito"
+    ],
+    "embedding_input": "passage: Para reforma utiliza-se os mesmos percentuais de liberação da construção (20, 30, 40 e 10%) Não necessariamente, por exemplo: Se o imóvel registrado vale 1 milhão, o crédito de até 300 mil é liberado 100%."
+  },
+  {
+    "id": "faq_052",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Posso utilizar parte do valor do crédito para reforma? Por exemplo, para compra de um imóvel de 1 milhão, é possível fazer uma carta com valor superior e usar o saldo excedente para fazer obra neste mesmo imóvel antes de entrar para morar?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Sim, como só poderão ser utilizados no máximo 30% do valor do imóvel para reforma, o cliente precisaria pegar 1 milhão para compra do imóvel + no máximo 300k para utilizar na reforma. OBS: Os 30% é referente ao valor do imóvel após avaliação e não pelo preço da compra.",
+    "palavras_chave": [
+      "Crédito",
+      "reforma",
+      "valor",
+      "imóvel",
+      "carta",
+      "saldo",
+      "obra"
+    ],
+    "embedding_input": "passage: Posso utilizar parte do valor do crédito para reforma? Por exemplo, para compra de um imóvel de 1 milhão, é possível fazer uma carta com valor superior e usar o saldo excedente para fazer obra neste mesmo imóvel antes de entrar para morar? Sim, como só poderão ser utilizados no máximo 30% do valor do imóvel para reforma, o cliente precisaria pegar 1 milhão para compra do imóvel + no máximo 300k para utilizar na reforma. OBS: Os 30% é referente ao valor do imóvel após avaliação e não pelo preço da compra."
+  },
+  {
+    "id": "faq_053",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Como funciona o fluxo de pagamento da 1ª parcela do cliente?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?"
+    ],
+    "resposta": "Se o pagamento ocorrer após o vencimento do mês, vale para o próximo. Por exemplo: Se o vencimento é todo dia 08 e o cliente pagou a 1ª parcela dia 09/10, vale para o vencimento do dia 08/11. A 2ª parcela será somente 08/12. OBS: Neste exemplo, o cliente não participará da assembleia do mês 10, somente do mês 11 em diante.",
+    "palavras_chave": [
+      "Fluxo",
+      "pagamento",
+      "parcela",
+      "cliente",
+      "vencimento",
+      "mês",
+      "assembleia"
+    ],
+    "embedding_input": "passage: Como funciona o fluxo de pagamento da 1ª parcela do cliente? Se o pagamento ocorrer após o vencimento do mês, vale para o próximo. Por exemplo: Se o vencimento é todo dia 08 e o cliente pagou a 1ª parcela dia 09/10, vale para o vencimento do dia 08/11. A 2ª parcela será somente 08/12. OBS: Neste exemplo, o cliente não participará da assembleia do mês 10, somente do mês 11 em diante."
+  },
+  {
+    "id": "faq_054",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O débito automático ocorrerá na parcela seguinte ao cadastro?",
+    "perguntas_relacionadas": [
+      "Como e onde são feitos os pagamentos das prestações mensais?",
+      "Pagamentos efetuados até a data do vencimento ou após a assembleia estão sujeitos a diferença de parcela?"
+    ],
+    "resposta": "Não necessariamente. Se no momento do cadastro do débito automático o boleto já estiver emitido, deve-se pagá-lo e somente no mês seguinte ocorrerá o débito em conta. Exemplo: Nos grupos em que o vencimento do boleto é todo dia 16, ele estará disponível para impressão aproximadamente 10 dias antes do vencimento, ou seja, por volta do dia 06. Caso o cadastro do débito automático ocorra no dia 11, deve-se pagar o boleto do dia 16 e somente no mês seguinte ocorrerá o débito automático na conta do cliente.",
+    "palavras_chave": [
+      "Débito automático",
+      "parcela",
+      "cadastro",
+      "boleto",
+      "mês",
+      "vencimento",
+      "conta"
+    ],
+    "embedding_input": "passage: O débito automático ocorrerá na parcela seguinte ao cadastro? Não necessariamente. Se no momento do cadastro do débito automático o boleto já estiver emitido, deve-se pagá-lo e somente no mês seguinte ocorrerá o débito em conta. Exemplo: Nos grupos em que o vencimento do boleto é todo dia 16, ele estará disponível para impressão aproximadamente 10 dias antes do vencimento, ou seja, por volta do dia 06. Caso o cadastro do débito automático ocorra no dia 11, deve-se pagar o boleto do dia 16 e somente no mês seguinte ocorrerá o débito automático na conta do cliente."
+  },
+  {
+    "id": "faq_055",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "No consórcio para obra, o terreno entra como garantia superior?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Não, na finalização da obra faz uma nova avaliação, se a construção pronta e averbada for maior ou igual ao crédito contratado, chamamos de garantia superior, aí podemos solicitar que seja diluído o lance embutido também. OBS: A garantia superior é para o imóvel da operação, garantia complementar é para saldo devedor.",
+    "palavras_chave": [
+      "Consórcio",
+      "obra",
+      "terreno",
+      "garantia superior",
+      "construção",
+      "crédito",
+      "lance embutido"
+    ],
+    "embedding_input": "passage: No consórcio para obra, o terreno entra como garantia superior? Não, na finalização da obra faz uma nova avaliação, se a construção pronta e averbada for maior ou igual ao crédito contratado, chamamos de garantia superior, aí podemos solicitar que seja diluído o lance embutido também. OBS: A garantia superior é para o imóvel da operação, garantia complementar é para saldo devedor."
+  },
+  {
+    "id": "faq_056",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Área rural consegue entrar na garantia superior?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Garantia superior é quando fazemos uma avaliação e ela é superior ao crédito contratado, independente se for área rural ou urbana. Garantia complementar não serve para garantia superior.",
+    "palavras_chave": [
+      "Área rural",
+      "garantia superior",
+      "avaliação",
+      "crédito",
+      "garantia complementar"
+    ],
+    "embedding_input": "passage: Área rural consegue entrar na garantia superior? Garantia superior é quando fazemos uma avaliação e ela é superior ao crédito contratado, independente se for área rural ou urbana. Garantia complementar não serve para garantia superior."
+  },
+  {
+    "id": "faq_057",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Para liberar o pagamento de um imóvel novo, precisa do habite-se?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Sim, precisa estar averbado. Não faz imóvel na planta.",
+    "palavras_chave": [
+      "Pagamento",
+      "imóvel novo",
+      "habite-se",
+      "averbado"
+    ],
+    "embedding_input": "passage: Para liberar o pagamento de um imóvel novo, precisa do habite-se? Sim, precisa estar averbado. Não faz imóvel na planta."
+  },
+  {
+    "id": "faq_058",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Tem cartas para compra de equipamento médico?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Não, porém pode usar a modalidade reforma caso cliente tenha o imóvel. Será necessário um projeto assinado por um engenheiro ou arquiteto. Também poderá utilizar o crédito da.",
+    "palavras_chave": [
+      "Cartas",
+      "equipamento médico",
+      "reforma",
+      "imóvel",
+      "projeto",
+      "engenheiro",
+      "arquiteto",
+      "crédito"
+    ],
+    "embedding_input": "passage: Tem cartas para compra de equipamento médico? Não, porém pode usar a modalidade reforma caso cliente tenha o imóvel. Será necessário um projeto assinado por um engenheiro ou arquiteto. Também poderá utilizar o crédito da."
+  },
+  {
+    "id": "faq_059",
+    "categoria": "Uso de Bens",
+    "pergunta_principal": "Eu tenho um carro no meu nome e outro no nome da minha esposa. Só posso dar o lance FIPE com o carro que está no meu nome?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "No lance FIPE você também pode usar o carro da sua esposa como lance, só precisa da certidão de casamento pra confirmar que são casados, mesmo que seja no regime de separação total de bens.",
+    "palavras_chave": [
+      "Carro",
+      "nome",
+      "esposa",
+      "lance FIPE",
+      "certidão de casamento"
+    ],
+    "embedding_input": "passage: Eu tenho um carro no meu nome e outro no nome da minha esposa. Só posso dar o lance FIPE com o carro que está no meu nome? No lance FIPE você também pode usar o carro da sua esposa como lance, só precisa da certidão de casamento pra confirmar que são casados, mesmo que seja no regime de separação total de bens."
+  },
+  {
+    "id": "faq_060",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Como é o operacional para dar lance FIPE?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Tem que usar a modalidade lance livre. Como o lance FIPE é recurso próprio, então pode utilizar com ou sem embutido.",
+    "palavras_chave": [
+      "Lance FIPE",
+      "site",
+      "lance livre",
+      "recurso próprio",
+      "embutido"
+    ],
+    "embedding_input": "passage: Como é o operacional para dar lance FIPE? Tem que usar a modalidade lance livre. Como o lance FIPE é recurso próprio, então pode utilizar com ou sem embutido."
+  },
+  {
+    "id": "faq_061",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Quando é necessário enviar o documento do veículo na modalidade lance FIPE?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Somente após a contemplação.",
+    "palavras_chave": [
+      "Documento",
+      "veículo",
+      "lance FIPE",
+      "contemplação"
+    ],
+    "embedding_input": "passage: Quando é necessário enviar o documento do veículo na modalidade lance FIPE? Somente após a contemplação."
+  },
+  {
+    "id": "faq_062",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Para lance FIPE, existe alguma exigência de ano do carro?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Para o carro que está sendo ofertado como lance FIPE não, mas para o carro que será comprado sim, no máximo 10 anos de uso.",
+    "palavras_chave": [
+      "Lance FIPE",
+      "exigência",
+      "ano",
+      "carro"
+    ],
+    "embedding_input": "passage: Para lance FIPE, existe alguma exigência de ano do carro? Para o carro que está sendo ofertado como lance FIPE não, mas para o carro que será comprado sim, no máximo 10 anos de uso."
+  },
+  {
+    "id": "faq_063",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "É no mês que o cliente paga sua 12ª parcela, sem nenhum atraso, que ele começa a participar do grupo de sorteio dos adimplentes?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Sim, nos grupos que possuem o “lance fidelidade”, quando ele paga 12 parcelas em dia, no próximo já pode ofertar o lance fidelidade, que aparecerá automaticamente no sistema.",
+    "palavras_chave": [
+      "Mês",
+      "cliente",
+      "parcela",
+      "atraso",
+      "grupo",
+      "sorteio",
+      "lance fidelidade"
+    ],
+    "embedding_input": "passage: É no mês que o cliente paga sua 12ª parcela, sem nenhum atraso, que ele começa a participar do grupo de sorteio dos adimplentes? Sim, nos grupos que possuem o “lance fidelidade”, quando ele paga 12 parcelas em dia, no próximo já pode ofertar o lance fidelidade, que aparecerá automaticamente no sistema."
+  },
+  {
+    "id": "faq_064",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "A Vexus poderá dar lances em nome de seus clientes?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Sim, porém caso a Vexus ofertar um lance para o cliente, e o pagamento desse lance não for realizado, a Vexus ficará impossibilitada de ofertar novos lances para essa cota nas próximas 3 assembleias.",
+    "palavras_chave": [
+      "Vexus",
+      "lances",
+      "clientes",
+      "pagamento",
+      "cota",
+      "assembleias"
+    ],
+    "embedding_input": "passage: A Vexus poderá dar lances em nome de seus clientes? Sim, porém caso a Vexus ofertar um lance para o cliente, e o pagamento desse lance não for realizado, a Vexus ficará impossibilitada de ofertar novos lances para essa cota nas próximas 3 assembleias."
+  },
+  {
+    "id": "faq_065",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Em quais regiões do Brasil vocês atendem?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Só não podemos vender nas regiões Norte e Nordeste e também no estado do Rio de Janeiro.",
+    "palavras_chave": [
+      "Regiões",
+      "Brasil",
+      "consórcio",
+      "Norte",
+      "Nordeste",
+      "Rio de Janeiro"
+    ],
+    "embedding_input": "passage: Em quais regiões do Brasil vocês atendem? Só não podemos vender nas regiões Norte e Nordeste e também no estado do Rio de Janeiro."
+  },
+  {
+    "id": "faq_066",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "No lance fixo, em que momento o cliente opta por descontar o % da carta ou pagar com recurso próprio?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Na hora da contemplação o cliente recebe um e-mail, e tem 3 dias úteis pra confirmar o lance. OBS: mesmo prazo para todas as modalidades.",
+    "palavras_chave": [
+      "Lance fixo",
+      "cliente",
+      "carta",
+      "recurso próprio",
+      "contemplação",
+      "e-mail"
+    ],
+    "embedding_input": "passage: No lance fixo, em que momento o cliente opta por descontar o % da carta ou pagar com recurso próprio? Na hora da contemplação o cliente recebe um e-mail, e tem 3 dias úteis pra confirmar o lance. OBS: mesmo prazo para todas as modalidades."
+  },
+  {
+    "id": "faq_067",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O cliente adquiriu consórcio com a parcela flex (50%), em algum momento ele pode optar por pagar parcela cheia mesmo antes da contemplação?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Sim, ele só não pode voltar para o flex depois.",
+    "palavras_chave": [
+      "Cliente",
+      "consórcio",
+      "parcela flex",
+      "parcela cheia",
+      "contemplação"
+    ],
+    "embedding_input": "passage: O cliente adquiriu consórcio com a parcela flex (50%), em algum momento ele pode optar por pagar parcela cheia mesmo antes da contemplação? Sim, ele só não pode voltar para o flex depois."
+  },
+  {
+    "id": "faq_068",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Na parcela flex, o cliente só pode optar por pagar 50% do valor da parcela?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Não, ele pode optar por 10, 20, 30, 40 ou 50% reduzido.",
+    "palavras_chave": [
+      "Parcela flex",
+      "cliente",
+      "valor",
+      "parcela",
+      "reduzido"
+    ],
+    "embedding_input": "passage: Na parcela flex, o cliente só pode optar por pagar 50% do valor da parcela? Não, ele pode optar por 10, 20, 30, 40 ou 50% reduzido."
+  },
+  {
+    "id": "faq_069",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O cliente pode mudar os percentuais de redução da parcela durante os pagamentos?",
+    "perguntas_relacionadas": [
+      "Como são calculadas as prestações do consórcio?",
+      "E como fica a prestação mensal?"
+    ],
+    "resposta": "Não, a única possibilidade é estar pagando com qualquer percentual de redução, e mudar para integral. Do integral não volta mais para o flex.",
+    "palavras_chave": [
+      "Cliente",
+      "percentuais",
+      "redução",
+      "parcela",
+      "pagamentos",
+      "integral",
+      "flex"
+    ],
+    "embedding_input": "passage: O cliente pode mudar os percentuais de redução da parcela durante os pagamentos? Não, a única possibilidade é estar pagando com qualquer percentual de redução, e mudar para integral. Do integral não volta mais para o flex."
+  },
+  {
+    "id": "faq_070",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Site do Banco Central para consultar as Administradoras de Consórcio",
+    "perguntas_relacionadas": [
+      "Qual a função da administradora de consórcio e quanto ela ganha por isso?",
+      "O que acontece se a administradora de consórcio não formar o grupo?"
+    ],
+    "resposta": "https://www.bcb.gov.br/meubc/encontreinstituicao.",
+    "palavras_chave": [
+      "Site",
+      "Banco Central",
+      "Administradoras de Consórcio"
+    ],
+    "embedding_input": "passage: Site do Banco Central para consultar as Administradoras de Consórcio https://www.bcb.gov.br/meubc/encontreinstituicao."
+  },
+  {
+    "id": "faq_071",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "O cliente pode solicitar a redução do valor do crédito contratado?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Sim, ele pode optar por reduzir a categoria, caso tenham menores disponíveis no grupo. Por exemplo: Se contratou um crédito de 100k, pode reduzir para 95k. Esse mecanismo é utilizado como uma alternativa para o cliente não cancelar o consórcio caso a parcela não esteja cabendo no seu bolso.",
+    "palavras_chave": [
+      "Cliente",
+      "redução",
+      "valor",
+      "crédito",
+      "categoria",
+      "grupo",
+      "parcela"
+    ],
+    "embedding_input": "passage: O cliente pode solicitar a redução do valor do crédito contratado? Sim, ele pode optar por reduzir a categoria, caso tenham menores disponíveis no grupo. Por exemplo: Se contratou um crédito de 100k, pode reduzir para 95k. Esse mecanismo é utilizado como uma alternativa para o cliente não cancelar o consórcio caso a parcela não esteja cabendo no seu bolso."
+  },
+  {
+    "id": "faq_072",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Como funcionam as medições? Tem custo de avaliação?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Será realizada apenas uma avaliação, depois o cliente envia a comprovação das etapas da obra por fotos.",
+    "palavras_chave": [
+      "Medições",
+      "custo",
+      "avaliação",
+      "cliente",
+      "obra",
+      "fotos"
+    ],
+    "embedding_input": "passage: Como funcionam as medições? Tem custo de avaliação? Será realizada apenas uma avaliação, depois o cliente envia a comprovação das etapas da obra por fotos."
+  },
+  {
+    "id": "faq_073",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "E a avaliação para garantia superior, apenas fotos também?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Não, após averbação do imóvel será realizada uma nova avaliação no local (R$ 2.400,00).",
+    "palavras_chave": [
+      "Avaliação",
+      "garantia superior",
+      "fotos",
+      "averbação",
+      "imóvel"
+    ],
+    "embedding_input": "passage: E a avaliação para garantia superior, apenas fotos também? Não, após averbação do imóvel será realizada uma nova avaliação no local (R$ 2.400,00)."
+  },
+  {
+    "id": "faq_074",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Como funciona o processo de comercialização de cartas contempladas?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Segue link com as explicações necessárias: Segure a tecla Ctrl e clique no texto vinculado Clique aqui para visualizar as orientações.",
+    "palavras_chave": [
+      "Processo",
+      "comercialização",
+      "cartas contempladas",
+      "link",
+      "explicações"
+    ],
+    "embedding_input": "passage: Como funciona o processo de comercialização de cartas contempladas? Segue link com as explicações necessárias: Segure a tecla Ctrl e clique no texto vinculado Clique aqui para visualizar as orientações."
+  },
+  {
+    "id": "faq_075",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Lance FIPE para caminhão, contabiliza só o cavalo?",
+    "perguntas_relacionadas": [
+      "Quais as formas de contemplação?",
+      "Como é a contemplação por Lance?"
+    ],
+    "resposta": "Sim, só o que tem FIPE.",
+    "palavras_chave": [
+      "Lance FIPE",
+      "caminhão",
+      "cavalo"
+    ],
+    "embedding_input": "passage: Lance FIPE para caminhão, contabiliza só o cavalo? Sim, só o que tem FIPE."
+  },
+  {
+    "id": "faq_076",
+    "categoria": "Dinâmica do Grupo e Regras",
+    "pergunta_principal": "Quando o cliente contempla e não utiliza o crédito, a carta deixar de reajustar INCC e fica só no CDI?",
+    "perguntas_relacionadas": [
+      "E se o consorciado optar por um bem diferente do seu plano?",
+      "Quando o bem fica desalienado?"
+    ],
+    "resposta": "Sim, o valor do crédito ficará em um fundo de investimentos rendendo CDI, porém as parcelas continuam reajustando o INCC semestralmente.",
+    "palavras_chave": [
+      "Cliente",
+      "contempla",
+      "crédito",
+      "carta",
+      "reajustar",
+      "INCC",
+      "CDI"
+    ],
+    "embedding_input": "passage: Quando o cliente contempla e não utiliza o crédito, a carta deixar de reajustar INCC e fica só no CDI? Sim, o valor do crédito ficará em um fundo de investimentos rendendo CDI, porém as parcelas continuam reajustando o INCC semestralmente."
+  },
+  {
+    "id": "faq_077",
+    "categoria": "Aspectos Financeiros",
+    "pergunta_principal": "Qual é a taxa de administração?",
+    "perguntas_relacionadas": [
+      "Quanto é a taxa de adm?",
+      "Quanto custam as taxas?",
+      "Qual valor da taxa?"
+    ],
+    "resposta": "A taxa de administração depende do tipo de consórcio e do prazo que você escolher. Porém, para te dar uma noção melhor, se você quiser contratar um consórcio com a gente, o custo da taxa é de apenas 0,1% ao mês ou 1,2% ao ano.",
+    "palavras_chave": [
+      "Taxa",
+      "administração",
+      "taxa de adm",
+      "custo"
+    ],
+    "embedding_input": "passage: Qual é a taxa de administração? A taxa de administração depende do tipo de consórcio e do prazo que você escolher. Porém, para te dar uma noção melhor, se você quiser contratar um consórcio com a gente, o custo da taxa é de apenas 0,1% ao mês ou 1,2% ao ano."
+  },
+  {
+    "id": "faq_078",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Quanto tempo demora para ser contemplado?",
+    "perguntas_relacionadas": [
+      "Quando eu consigo resgatar o dinheiro?",
+      "Em quanto tempo eu consigo o crédito?"
+    ],
+    "resposta": "Depende do formato da contemplação. Se você tiver disponibilidade para dar lance, em média, você pode ser contemplado de 3 a 4 meses. Mas nós já tivemos clientes que foram contemplados com menos de um mês. Não é garantido, mas pode acontecer.",
+    "palavras_chave": [
+      "Contemplação",
+      "sorteio",
+      "lance",
+      "pagamentos",
+      "tempo"
+    ],
+    "embedding_input": "passage: Quanto tempo demora para ser contemplado? Depende do formato da contemplação. Se você tiver disponibilidade para dar lance, em média, você pode ser contemplado de 3 a 4 meses. Mas nós já tivemos clientes que foram contemplados com menos de um mês. Não é garantido, mas pode acontecer."
+  },
+  {
+    "id": "faq_079",
+    "categoria": "Contemplação e Lances",
+    "pergunta_principal": "Qual o valor de lance necessário para contemplar?",
+    "perguntas_relacionadas": [
+      "Qual a média de lances para contemplar?",
+      "Quantos porcento de lance precisa para contemplar?"
+    ],
+    "resposta": "Depende dos grupos que se encaixarão no seu objetivo. Temos grupos que variam de 40% até 65% de lance. Mas não se preocupe que temos várias estratégias para reduzir o percentual dos lances.",
+    "palavras_chave": [
+      "Contemplação",
+      "sorteio",
+      "lance",
+      "valor",
+      "tempo"
+    ],
+    "embedding_input": "passage: Qual o valor de lance necessário para contemplar? Depende dos grupos que se encaixarão no seu objetivo. Temos grupos que variam de 40% até 65% de lance. Mas não se preocupe que temos várias estratégias para reduzir o percentual dos lances."
+  }
+]
