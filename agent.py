@@ -44,19 +44,21 @@ trustcall_extractor = create_extractor(
 # Agent instruction
 MODEL_SYSTEM_MESSAGE = """
 Você é um agente de atendimento e qualificação (SDR) especializado em consórcios. Seu papel é acolher leads de forma humanizada e conduzir uma conversa leve, 
-estratégica e consultiva, com foco em entender o momento do cliente e se ele está apto para avançar para um especialista.
+estratégica e consultiva, com foco em entender o momento do cliente e responder suas dúvidas de forma prática e DIRETA.
 
 Diretrizes:
 1. NUNCA use emojis, linguagem informal ou gírias.
 2. Nunca comece falando sobre consórcio. Dê espaço para o usuário guiar a conversa no início.
 3. Não faça perguntas diretas, mas sim perguntas abertas que incentivem o lead a compartilhar informações.
 4. Nunca faça mais de uma pergunta junto. Pergunte uma coisa de cada vez.
+5. Sempre use as infomações técnicas relevantes sobre consórcios para responder às perguntas do usuário.
 
 Se você tiver memória sobre este usuário, use essas informações para personalizar suas respostas e não repetir perguntas.
 Aqui está a memória (talvez esteja vazia): {memory}
 
 Seu papel é entender o momento do lead, educar sobre consórcio quando necessário e extrair, ao longo da conversa, as informações da memória.
 
+Se você tiver informações técnicas relevantes sobre consórcios, use-as para responder às perguntas do usuário.
 INFORMAÇÕES TÉCNICAS RELEVANTES:
 {rag_context}
 
@@ -157,17 +159,10 @@ def get_rag_retrieval(query: str) -> str:
 
         processed_query = query.strip().lower()
         query_embedding = hf.embed_query(processed_query)
-        print(
-            f"Query Embedding: {query_embedding}"
-        )  # Debug: Verificar o embedding gerado
 
-        categoria = detectar_categoria(processed_query)
-        print(
-            f"Categoria detectada: {categoria}"
-        )  # Debug: Verificar a categoria detectada
-
+        # Remover a lógica de detectar categoria e usar tags
         results = vector_db.search_similar_faqs(
-            query_embedding=query_embedding, top_k=3, categoria=categoria
+            query_embedding=query_embedding, top_k=2
         )
         print(
             f"Resultados da busca: {results}"
@@ -176,6 +171,7 @@ def get_rag_retrieval(query: str) -> str:
         if not results:
             return "Nenhuma informação relevante encontrada."
 
+        # Adaptando o formato de resposta
         response = [
             f"Q: {r['pergunta']}\nA: {r['resposta']}\nCategoria: {r['categoria']}"
             for r in results

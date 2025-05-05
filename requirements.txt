@@ -11,6 +11,7 @@ langchain-google-vertexai
 google-cloud-aiplatform
 google-cloud-storage
 notebook
+psycopg2
 python-dotenv
 trustcall
 langgraph-cli[inmem]

@@ -2,104 +2,67 @@ import os
 import psycopg2
 from psycopg2.extras import RealDictCursor
 from dotenv import load_dotenv
-from typing import List, Optional
 
-load_dotenv()
+load_dotenv()  # Loads environment variables from .env (if present)
 
-# Carregar variáveis de ambiente
-DB_HOST = os.getenv("SUPABASE_DB_HOST")
-DB_NAME = os.getenv("SUPABASE_DB_NAME")
-DB_USER = os.getenv("SUPABASE_DB_USER")
-DB_PASSWORD = os.getenv("SUPABASE_DB_PASSWORD")
-DB_PORT = os.getenv("SUPABASE_DB_PORT")
+DB_HOST = os.getenv("SUPABASE_DB_HOST", "YOUR_HOST")
+DB_NAME = os.getenv("SUPABASE_DB_NAME", "postgres")
+DB_USER = os.getenv("SUPABASE_DB_USER", "postgres")
+DB_PASSWORD = os.getenv("SUPABASE_DB_PASSWORD", "YOUR_PASSWORD")
+DB_PORT = os.getenv("SUPABASE_DB_PORT", "5432")
 
 
 class SupabaseVectorDB:
-    def __init__(self):
-        self._connection = None
-        self._connect()
+    _instance = None
+    _connection = None
+
+    def __new__(cls):
+        # Implementando o padrão Singleton
+        if cls._instance is None:
+            cls._instance = super(SupabaseVectorDB, cls).__new__(cls)
+            cls._instance._connect()
+        return cls._instance
 
     def _connect(self):
-        """Estabelece conexão com o banco."""
+        """Estabelece conexão com o banco de dados, se não houver conexão ativa."""
         if self._connection is None or self._connection.closed:
-            try:
-                self._connection = psycopg2.connect(
-                    host=DB_HOST,
-                    database=DB_NAME,
-                    user=DB_USER,
-                    password=DB_PASSWORD,
-                    port=DB_PORT,
-                )
-                self._connection.autocommit = True
-            except Exception as e:
-                raise ConnectionError(f"Erro ao conectar ao banco: {e}")
+            self._connection = psycopg2.connect(
+                host=DB_HOST,
+                database=DB_NAME,
+                user=DB_USER,
+                password=DB_PASSWORD,
+                port=DB_PORT,
+            )
+            self._connection.autocommit = True
 
-    def close(self):
-        """Fecha conexão com o banco."""
+    def __del__(self):
+        """Fecha a conexão com o banco de dados quando a instância for destruída."""
         if self._connection and not self._connection.closed:
             self._connection.close()
 
-    def _format_embedding(self, embedding: List[float]) -> str:
-        """Formata lista de floats para o tipo vector do PostgreSQL."""
-        return "ARRAY[%s]" % ", ".join(map(str, embedding))  # Convertendo para array
-
-    def search_similar_faqs(
-        self,
-        query_embedding: List[float],
-        top_k: int = 5,
-        categoria: Optional[str] = None,
-        tags: Optional[List[str]] = None,
-        similarity_threshold: float = 0.6,
-    ) -> List[dict]:
-        """
-        Busca as FAQs mais semelhantes usando pgvector.
-        Filtros por categoria e tags são opcionais.
-        """
+    def search_similar_faqs(self, query_embedding: list[float], top_k: int = 2):
         self._connect()
-        formatted_embedding = self._format_embedding(query_embedding)
-        filters = []
-        params = []
+        dims = 768
+        embedding_str = (
+            f"'[{','.join(str(v) for v in query_embedding)}]'::vector({dims})"
+        )
 
-        if categoria:
-            filters.append("metadata->>'categoria' = %s")
-            params.append(categoria)
+        # Não usa mais categoria e tags, então removemos as cláusulas
+        with self._connection.cursor(cursor_factory=RealDictCursor) as cursor:
+            sql = f"""
+                SELECT
+                    id,
+                    pergunta,
+                    resposta,
+                    categoria,
+                    metadata->'tags' AS tags,
+                    embedding <-> {embedding_str} AS distance
+                FROM faq_embeddings
+                ORDER BY embedding <-> {embedding_str}
+                LIMIT {top_k};
+            """
 
-        if tags:
-            filters.append(
-                "metadata->'tags' ?| array[%s]" % ", ".join(["%s"] * len(tags))
-            )
-            params.extend(tags)
+            cursor.execute(sql)
+            results = cursor.fetchall()
 
-        where_clause = f"WHERE {' AND '.join(filters)}" if filters else ""
-
-        query = f"""
-            SELECT
-                id,
-                pergunta,
-                resposta,
-                metadata->>'categoria' AS categoria,
-                metadata,
-                1 - (embedding <=> {formatted_embedding}::vector) AS similaridade
-            FROM faq_embeddings
-            {where_clause}
-            HAVING 1 - (embedding <=> {formatted_embedding}::vector) >= %s
-            ORDER BY similaridade DESC
-            LIMIT %s;
-        """
-        params.append(
-            similarity_threshold
-        )  # Adiciona o limiar diretamente nos parâmetros da consulta
-        params.append(top_k * 2)  # Pega mais do que precisa, para filtrar depois
-
-        try:
-            with self._connection.cursor(cursor_factory=RealDictCursor) as cursor:
-                cursor.execute(query, params)
-                results = cursor.fetchall()
-        except Exception as e:
-            print(f"Erro ao executar a consulta: {e}")
-            return []
-
-        return results[:top_k]
-
-    def __del__(self):
-        self.close()
+        return results
